@@ -430,6 +430,7 @@
     "playwright": "https://github.com/microsoft/playwright",
     "playwright-dotnet": "https://github.com/microsoft/playwright-dotnet",
     "pnpjs": "https://github.com/pnp/pnpjs",
+    "pnpm": "https://github.com/pnpm/pnpm",
     "pollyjs": "https://github.com/Netflix/pollyjs",
     "pothos": "https://github.com/hayes/pothos",
     "pouchdb": "https://github.com/pouchdb/pouchdb",
